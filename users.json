@@ -1,0 +1,26 @@
+[
+{
+	"_id" : "5911c351e7138c7105465ebf",
+	"name" : "Jack Stoy",
+	"provider" : "local",
+	"email" : "test@test.com",
+	"password" : "test",
+	"role" : "user"
+},
+{
+	"_id" : "5911c351e7138c7105465ec0",
+	"name" : "John Doe",
+	"provider" : "local",
+	"email" : "johndoe@test.com",
+	"password" : "test",
+	"role" : "user"
+},
+{
+	"_id" : "5911c353e7138c7105465ec1",
+	"name" : "Jenny Sparks",
+	"provider" : "local",
+	"email" : "jennysparks@test.com",
+	"password" : "test",
+	"role" : "user"
+}
+]

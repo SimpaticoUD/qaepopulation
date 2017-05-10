@@ -1,0 +1,7 @@
+
+
+db.questions.insert({"searchText" : "Support   Young   Carer", "title": "Support Young Carer","stars" : [ ],"comments" : [ ],"createdAt" : ISODate("2017-05-09T11:52:39.918Z"), "content": "How should I support a young carer", "category" : ObjectId("59118861613f4a34285ad0ec"), "user" : ObjectId("59118a59613f4a34285ad0f0"),"tags" : [	{"text": "Social","_id":  ObjectId("59118ef8613f4a34285ad0f2")}, {"text": "Young Carer","_id":  ObjectId("59118f11613f4a34285ad0f3")}],"answers" : [{"createdAt" : ISODate("2017-05-09T09:56:00.770Z"),	"comments" : [ ],"stars" : [ ],"user" : ObjectId("59118a52613f4a34285ad0ef"),"content" : "Caring can have significant impacts on a young person’s health, education and social development. Early identification, intervention and prevention are vital to reduce negative impacts on young carers and improve outcomes for them and their families.\\n\\nWhen a young carer has been identified, you should offer them a Young Carers Assessment, which is an easy-to-use, young-person friendly booklet providing you with a guided conversation to help young people talk about their home life and their caring and agree actions that will help."}]})
+
+
+	
+	
